@@ -2,6 +2,23 @@
 
 A modern landing page for **create.inc** - your gateway to powerful AI APIs within Cursor.
 
+**Developed by Dewoo Sawant**
+
+---
+
+## Screenshots
+
+### Hero Section
+![Hero Section](screenshots/hero-section.png)
+
+### Features Section
+![Features Section](screenshots/features-section.png)
+
+### Footer Section
+![Footer Section](screenshots/footer-section.png)
+
+---
+
 ## Overview
 
 create.inc is a platform where developers can discover and integrate amazing AI APIs into their applications without writing complex code. We provide access to:
@@ -17,12 +34,24 @@ create.inc is a platform where developers can discover and integrate amazing AI 
 
 This landing page is styled to match the SayBriefly design aesthetic:
 
-- Cream/beige background (#F5F3ED)
-- Dark green text and buttons (#1A3A1A)
-- Yellow accent highlights (#F5D547)
-- Playfair Display serif font for headings
-- Inter sans-serif for body text
-- Clean, minimal, modern layout
+| Property | Value |
+|----------|-------|
+| Background | Cream/beige (#F5F3ED) |
+| Primary Text | Dark green (#1A3A1A) |
+| Accent | Yellow (#F5D547) |
+| Heading Font | Playfair Display (serif) |
+| Body Font | Inter (sans-serif) |
+
+## Features
+
+- Responsive navigation with logo and CTA buttons
+- Social proof badge with statistics
+- Bold hero headline with serif typography
+- Feature cards showcasing AI capabilities
+- Preview card showing API example
+- Dark green footer with links
+- Yellow decorative circle accent
+- Fully responsive design
 
 ## Getting Started
 
@@ -38,6 +67,22 @@ npx serve
 
 Then visit `http://localhost:8080`
 
+## Tech Stack
+
+- HTML5
+- CSS3 (Custom Properties, Flexbox, Grid)
+- Google Fonts (Playfair Display, Inter)
+
+## Author
+
+**Dewoo Sawant**
+
+- GitHub: [@dewoosawant123](https://github.com/dewoosawant123)
+
 ## License
 
 MIT
+
+---
+
+Made with Cursor AI
